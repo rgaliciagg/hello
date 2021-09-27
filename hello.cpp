@@ -4,6 +4,6 @@
  
 int main () 
 {
-    std::cout << "Hola, mundo";
+    std::cout << "Hola, mundo" << "\r\n";
     return 0;
 }
